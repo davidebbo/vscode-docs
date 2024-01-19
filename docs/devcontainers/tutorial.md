@@ -94,7 +94,7 @@ The specific container for this tutorial has Node.js v18 installed, which you ca
 node --version; npm --version
 ```
 
-This should show the following versions:
+This should show the following versions (or possibly slightly newer versions):
 
 ![Node.js version check](images/tutorial/version-check-updated.png)
 
